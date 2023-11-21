@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+// 커밋명 변경
 public class 중복문자제거 {
     public static String solution(String str) {
         int[] n = new int[26];
